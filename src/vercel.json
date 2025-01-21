@@ -1,0 +1,10 @@
+{
+    "redirects": [
+      {
+        "source": "/",
+        "destination": "/src/pages/register.html",
+        "permanent": true
+      }
+    ]
+  }
+  
